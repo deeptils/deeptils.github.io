@@ -1,5 +1,5 @@
 ---
-title: "AI writes code 100x faster - why hasn't productivity"
+title: "AI writes code 100x faster - why hasn't productivity?"
 date: 2026-04-18
 categories:
   - blog
