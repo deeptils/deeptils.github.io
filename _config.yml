@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Edwin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I've been working in deep learning things for over 10 years"
+  bio    : "been working in deep learning things for over 10 years. just would like to share some obervations here"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
