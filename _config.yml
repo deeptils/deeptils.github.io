@@ -16,7 +16,7 @@
 title: something good
 email: tilsml500@gmail.com
 description: >- # something something about tech and latest AI development 
-twitter_username: DeepExplainer
+twitter_username: 
 github_username: deeptils
 minimal_mistakes_skin: default
 search: true
@@ -76,7 +76,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/DeepExplainer"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
